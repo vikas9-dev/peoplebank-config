@@ -5,7 +5,7 @@ accounts:
   message: "Accounts Microservice - Production"
   contactDetails:
     name: "Accounts Microservice - Developer"
-    email: "0V7ZD@example.com"
+    email: "{cipher}278fb8eefe1cfdec12cddde47fd474627fc4ace6fb9e546eb229afd3cd739fd90d1485033596d23b9b87673175e0b431"
   onCallSupport:
     - (555) 555-5555
     - (555) 555-5556
