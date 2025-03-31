@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Accounts Microservice - Production - Mofified"
+  message: "Accounts Microservice - Production - Mofified - Bus Added with RabbitMQ"
   contactDetails:
     name: "Accounts Microservice - Developer"
     email: "{cipher}278fb8eefe1cfdec12cddde47fd474627fc4ace6fb9e546eb229afd3cd739fd90d1485033596d23b9b87673175e0b431"
