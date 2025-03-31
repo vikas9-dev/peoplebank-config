@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to PeopleBank loans related prod APIs - Mofified"
+  message: "Welcome to PeopleBank loans related prod APIs - Mofified - Bus Added with RabbitMQ"
   contactDetails:
     name: "William - Product Owner"
     email: "william@peoplebank.com"
