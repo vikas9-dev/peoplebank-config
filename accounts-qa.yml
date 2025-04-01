@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Accounts Microservice - QA"
+  message: "Accounts Microservice - QA - Docker"
   contactDetails:
     name: "Accounts Microservice - Developer"
     email: "0V7ZD@example.com"
